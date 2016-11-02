@@ -37,10 +37,11 @@ section article:nth-child(3) .title p {
 	background: blue;
 }
 p {
-	min-height: 350px;
-	margin: 40px 20px 20px 20px;
+	min-height: 300px;
+	margin: 0px 20px 20px 20px;
 	background: #e0e0e0;
-	padding: 10px;
+	padding: 40px 10px 10px 10px;
+	border: 1px solid #000;
 }
 /* Simple Responsive Framework. */
 .row {
